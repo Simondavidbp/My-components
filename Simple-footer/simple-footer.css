@@ -1,0 +1,21 @@
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+body {
+  margin-bottom: 50px;
+}
+
+.content {
+  background-color: red;
+  height: 80vh;
+}
+
+.footer {
+  background-color: yellow;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  height: 80px;
+}
